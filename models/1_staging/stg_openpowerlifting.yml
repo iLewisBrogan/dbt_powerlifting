@@ -1,0 +1,87 @@
+version: 2
+
+models:
+  - name: stg_openpowerlifting
+    columns:
+      - name: Name
+        description: TBD
+      - name: Sex
+        description: TBD
+      - name: Event
+        description: TBD
+      - name: Equipment
+        description: TBD
+      - name: Age
+        description: TBD
+      - name: AgeClass
+        description: TBD
+      - name: BirthYearClass
+        description: TBD
+      - name: Division
+        description: TBD
+      - name: BodyweightKg
+        description: TBD
+      - name: WeightClassKg
+        description: TBD
+      - name: Squat1Kg
+        description: TBD
+      - name: Squat2Kg
+        description: TBD
+      - name: Squat3Kg
+        description: TBD
+      - name: Squat4Kg
+        description: TBD
+      - name: Best3SquatKg
+        description: TBD
+      - name: Bench1Kg
+        description: TBD
+      - name: Bench2Kg
+        description: TBD
+      - name: Bench3Kg
+        description: TBD
+      - name: Bench4Kg
+        description: TBD
+      - name: Best3BenchKg
+        description: TBD
+      - name: Deadlift1Kg
+        description: TBD
+      - name: Deadlift2Kg
+        description: TBD
+      - name: Deadlift3Kg
+        description: TBD
+      - name: Deadlift4Kg
+        description: TBD
+      - name: Best3DeadliftKg
+        description: TBD
+      - name: TotalKg
+        description: TBD
+      - name: Place
+        description: TBD
+      - name: Dots
+        description: TBD
+      - name: Wilks
+        description: TBD
+      - name: Glossbrenner
+        description: TBD
+      - name: Goodlift
+        description: TBD
+      - name: Tested
+        description: TBD
+      - name: Country
+        description: TBD
+      - name: State
+        description: TBD
+      - name: Federation
+        description: TBD
+      - name: ParentFederation
+        description: TBD
+      - name: Date
+        description: TBD
+      - name: MeetCountry
+        description: TBD
+      - name: MeetState
+        description: TBD
+      - name: MeetTown
+        description: TBD
+      - name: MeetName
+        description: TBD
